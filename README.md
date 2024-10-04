@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on creating a website
 - 📫 How to reach me mishchenkodima123@gmail.com
 - 😄 My name is Dima
-- ⚡ Fun fact: left-handed, open-minded.
+- ⚡ Fun fact: left-handed.
 
 <!---
 b00r0v/b00r0v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
